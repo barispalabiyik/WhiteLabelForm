@@ -1,0 +1,14 @@
+{
+  "site_title": "My Site",
+  "db_api_key": "c4FGBG2evAis2A6L61DVEc",
+  "id": "2202",
+  "contacts": [
+    {
+      "name": "John Doe",
+      "email": "",
+      "phone": ""
+    }
+  ],
+  "primary_color": "#000000",
+  "secondary_color": "#ffffff"
+}
